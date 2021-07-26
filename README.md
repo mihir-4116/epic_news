@@ -2,7 +2,10 @@
 
 1) What is the functionaity of this project?
 2) This is a news app build in flutter with beautiful ui where you can see news from different magazines, diffrent countries and also from multiple categories.
-3) This app fetches latest news from newsapi.org.
+3) This app fetches latest news from newsapi.org
+4) I impliment Firebase for authentication.
+5) You can Run this app by downloading zip file and change my api key from yours and connect Firebase with this app
+6) <h4>Happy Coding 🤗🤗</h4>
 
 <h2>screenshots for this app:</h2>
  <table>
