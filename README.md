@@ -1,4 +1,4 @@
-welcome to this  Project.
+<h1>welcome to this  Project</h1>
 
 1) What is the functionaity of this project?
 2) This is a news app build in flutter with beautiful ui where you can see news from different magazines, diffrent countries and also from multiple categories.
