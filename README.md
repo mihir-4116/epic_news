@@ -4,7 +4,20 @@ welcome to this  Project.
 2) This is a news app build in flutter with beautiful ui where you can see news from different magazines, diffrent countries and also from multiple categories.
 3) This app fetches latest news from newsapi.org.
 4) Preview of this app:
- <img src="https://user-images.githubusercontent.com/77438541/126980785-8a2fece3-53a3-4756-92ea-5bef52dbe4c4.png" width="400" height="750">
+ <table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/77438541/126981572-fd99bbad-f309-4a51-9b30-f4ad308dd026.png" width=400 height=750></td>
+    <td><img src="https://user-images.githubusercontent.com/77438541/126981598-33a86928-31e9-4b35-9454-2324a6499f12.png" width=400 height=750></td>
+    <td><img src="https://user-images.githubusercontent.com/77438541/126981617-09aaecdf-63ee-4b33-a94e-1f716510009e.png" width=400 height=750></td>
+  </tr>
+ <tr>
+    <td><img src="https://user-images.githubusercontent.com/77438541/126981634-bd05656c-1f33-422e-b2c7-a5d791103b13.png" width=400 height=750></td>
+    <td><img src="https://user-images.githubusercontent.com/77438541/126981648-e7035026-e5f6-44e4-9e23-3b6a3da1a257.png" width=400 height=750></td>
+  </tr>
+  </table>
+  
+   
+
    
      
 
