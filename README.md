@@ -6,9 +6,9 @@ welcome to this  Project.
 4) Preview of this app:
  <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/77438541/126981572-fd99bbad-f309-4a51-9b30-f4ad308dd026.png" width=400 height=750></td>
-    <td><img src="https://user-images.githubusercontent.com/77438541/126981927-5f7964aa-b88e-43a1-94a3-973c0697891b.png" width=400 height=750></td>
-    <td><img src="https://user-images.githubusercontent.com/77438541/126981617-09aaecdf-63ee-4b33-a94e-1f716510009e.png" width=400 height=750></td>
+    <td><img src="https://user-images.githubusercontent.com/77438541/126981572-fd99bbad-f309-4a51-9b30-f4ad308dd026.png" width=500 height=650></td>
+    <td><img src="https://user-images.githubusercontent.com/77438541/126981927-5f7964aa-b88e-43a1-94a3-973c0697891b.png" width=500 height=650></td>
+    <td><img src="https://user-images.githubusercontent.com/77438541/126981617-09aaecdf-63ee-4b33-a94e-1f716510009e.png" width=500 height=650></td>
   </tr>
  <tr>
     <td><img src="https://user-images.githubusercontent.com/77438541/126981634-bd05656c-1f33-422e-b2c7-a5d791103b13.png" width=400 height=750></td>
